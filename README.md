@@ -6,4 +6,4 @@
 ### Table of Contents
 - [Item 1](https://github.com/yulizhu0/1600-Markdown-Challenge/blob/8ee214d80a2bf18d473c469e7da5e134fcfdbfbb/item1.md)
 - [Item 2](https://github.com/yulizhu0/1600-Markdown-Challenge/blob/1c612b039b77aa271d3e3c6dd978d9729e12ccfc/item2.md)
-- [Item 3]()
+- [Item 3](https://github.com/yulizhu0/1600-Markdown-Challenge/blob/f3d40fd743da1bd0e578b054134f74c75ef37c41/item3.md)
