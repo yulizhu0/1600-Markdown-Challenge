@@ -5,5 +5,5 @@
 <img src="/assets/rug.png" width="600" height="600">
 <p> The reason why I want this is because I wanted a rug for my dorm and future apartment. As I get older, I start to want things for my living space more and more. I love the colors in this rug as well as the texture of the fibers. I think this rug has a lot of character and would add a spark of color to any space. I've been wanting to liven up my dorm room too, especially since my cat is here with me and I think he deserves a rug. </p>
   
-[Homepage](https://github.com/yulizhu0/1600-Markdown-Challenge/blob/682a8ff07e23ece486312e7a1eb05e315825ef91/README.md) Back (Item 2)
+[Homepage](https://github.com/yulizhu0/1600-Markdown-Challenge/blob/682a8ff07e23ece486312e7a1eb05e315825ef91/README.md) [Back](https://github.com/yulizhu0/1600-Markdown-Challenge/blob/1c612b039b77aa271d3e3c6dd978d9729e12ccfc/item2.md)
 
